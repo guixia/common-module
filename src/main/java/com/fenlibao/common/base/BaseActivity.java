@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.alibaba.android.arouter.launcher.ARouter;
 
 /**
- * 0318 1430
+ * 0318 1527
  */
 public abstract class BaseActivity extends AppCompatActivity {
     protected BaseActivity _activity;
