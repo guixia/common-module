@@ -3,7 +3,7 @@ package com.fenlibao.common.base;
 import android.app.Application;
 
 /**
- * 项目Application基类主项Application需集成此类
+ * 项目Application基类主项Application需集成此类1453
  */
 public class BaseApplication extends Application {
     /**
